@@ -13,6 +13,10 @@ title: Writing
     {% endfor %}
 </ul>
 
+## Communication Projects
+
+ - [Storify - #SouthAsianAnd Identity Campaign](https://storify.com/SouthAsianAnd/southasianand-identity-campaign) &mdash; August 3, 2015
+
 ## About Me
 
 I am a senior at Columbia University studying chemical engineering and political science. I'm interested in intersections between science, technology and communications. I want to enter the media field and contribute to programming on these topics. I'm an active member of the CU Engineers Without Borders (EWB) team, and also serve the EWB national office as the New York state representative. I'm always looking for grassroots organizations in need of our teams for water, sanitation, or civil structure-based projects.
