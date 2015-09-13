@@ -1,0 +1,111 @@
+---
+---
+
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond|Source+Sans+Pro:200,400,600,700,900);
+
+body {
+    font-family: 'EB Garamond', serif;
+}
+
+h1 a {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: 'EB Garamond', serif;
+    font-weight: normal;
+    a {
+        text-decoration: none;
+    }
+}
+
+body {
+    margin: 0px;
+}
+
+#headerbg {
+    background-image: url('header-background.jpeg');
+    background-repeat: no-repeat;
+    background-position: 0 60%;
+    background-size: 100% auto;
+}
+
+header {
+    letter-spacing: 1px;
+    background-color: rgba(50, 50, 70, 0.5);
+    text-align: center;
+    padding: 100px 15px 100px 15px;
+    color: white;
+}
+
+footer {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    a {
+        color: white;
+    }
+    strong {
+        font-weight: 400;
+    }
+    p {
+        max-width: 34em;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+article {
+    margin: 0 auto;
+    max-width: 34em;
+    padding: 15px;
+
+    blockquote{
+        border-left: 1px solid gray;
+        margin-left: 1em;
+        padding-left: 1em;
+    }
+
+    cite {
+        margin-left: 2em;
+    }
+
+    img {
+        display: block;
+        max-width: 30em;
+        padding: 1em;
+        border: 1px solid gray;
+        margin: 0 auto;
+    }
+
+    h2 {
+        font-size: 27px;
+        margin-top: 40px;
+        margin-bottom: 0px;
+    }
+
+    p {
+        line-height: 1.5em;
+        color: #333;
+    }
+
+    a {
+        color: #5CA3E6;
+    }
+
+    ul {
+        padding-left: 0px;
+        li {
+            list-style-position: inside;
+        }
+    }
+}
