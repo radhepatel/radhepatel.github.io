@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Thoughts from the Social Good Summit
-date: 2014-09-28
 ---
 
 This week, I had the privilege of attending the UN Foundation’s Annual Social Good Summit, a 2 day conference. The speakers at the event represented a variety of leaders, celebrities, journalists, and activists representing different social causes and initiatives. The theme was #2030NOW, an effort to start conversations on the post 2015 agenda world we’d like to see. The hashtag also represented the key place of technology in accelerating development and empowering young people across the world, through lifesaving apps, community building, information transfer in developing countries, and social network activism.  Below are some thoughts about two of the many panels and speakers at the summit.

@@ -21,8 +21,3 @@ I like writing about past field projects, but am also interested in efforts here
 
 To inquire about Engineers Without Borders projects, donations, or community partnerships, email me at new.york.city.rep@ewb-northeast.org
 For anything else: rpp2122@columbia.edu
-
-Find me:
-
-   - [linkedin.com/pub/radhe-patel/80/b08/b97/](http://linkedin.com/pub/radhe-patel/80/b08/b97/)
-   - [twitter.com/radhe_16](http://twitter.com/radhe_16/)

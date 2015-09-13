@@ -1,7 +1,5 @@
 ---
-layout: default
 title: What does privilege mean to you?
-date: 2014-05-15
 ---
 
 Recently, Princeton Freshman Tal Fortgang wrote [this piece for the Princeton Tory](http://theprincetontory.com/main/checking-my-privilege-character-as-the-basis-of-privilege/).
