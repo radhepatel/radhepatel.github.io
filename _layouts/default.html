@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>{{page.title}} - Radhe Patel</title>
+        <title>{{page.title}} - {{site.title}}</title>
         <link href='/style.css' rel='stylesheet' type='text/css'>
         <meta charset="UTF-8">
         <link rel="icon" href="/favicon.png">
@@ -30,7 +30,7 @@
 
         {% if page.date %}
             <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-            <meta content="{{ site.url }}/about/" property="article:author">
+            <meta content="{{ site.url }}" property="article:author">
         {% endif %}
 
         {% if page.image %}
