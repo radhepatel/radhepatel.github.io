@@ -25,6 +25,9 @@ I'm an active member of Engineers Without Borders (EWB), and used to serve the E
 
 I like writing about past field projects and the things I'm experieincing at Ed -- but am also interested in conversations surrounding development, social change, and specific policies/challenges affecting the NYC community.
 
+[Learn more about my experiences here.](/resume.pdf)
+
 To inquire about Engineers Without Borders projects, donations, or community partnerships, email me at new.york.city.rep@ewb-northeast.org
 
 For anything else: rpp2122@columbia.edu
+
