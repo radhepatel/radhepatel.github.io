@@ -1,5 +1,3 @@
-![alt text](http://41.media.tumblr.com/49c76be2575919eb2ff572cd81c85cb9/tumblr_nvemvjKeG81tvgkvdo1_1280.png "Tech")
-
 [The MyWorld Survey](http://www.myworld2015.org/) is a tool the United Nations used to crowd-source the post-2015 development agenda’s sustainable development goals. Available online, the survey allowed anyone to select priorities for global development from a large list spanning many themes. Over the past two years, individuals in every country casted their votes, and volunteers were sent out to the most remote communities around the globe to ask people, “What six development objectives matter most to you?”
 
 Considering that the first set of Millennium Development Goals came from negotiations among high-level UN officials, with no consultation with/from grassroots leaders or advocates, it is exciting that the new Sustainable Development Goals (SDGs) are the result of an open process. Through this and other outreach, the SDG committee provided individuals the opportunity to have some of the most direct impact on international policy possible. 
@@ -19,4 +17,5 @@ I believe it is imperative that social organizations start moving in this direct
 
 The MyWorld survey can be found at http://www.myworld2015.org/ 
 
+![alt text](http://41.media.tumblr.com/49c76be2575919eb2ff572cd81c85cb9/tumblr_nvemvjKeG81tvgkvdo1_1280.png "Tech")
 
