@@ -1,5 +1,6 @@
 ---
 image: http://41.media.tumblr.com/49c76be2575919eb2ff572cd81c85cb9/tumblr_nvemvjKeG81tvgkvdo1_1280.png
+description: The MyWorld Survey is a tool the United Nations used to crowd-source the post-2015 development agenda’s sustainable development goals. Available online, the survey allowed anyone to select priorities for global development from a large list spanning many themes.
 ---
 
 [The MyWorld Survey](http://www.myworld2015.org/) is a tool the United Nations used to crowd-source the post-2015 development agenda’s sustainable development goals. Available online, the survey allowed anyone to select priorities for global development from a large list spanning many themes. Over the past two years, individuals in every country casted their votes, and volunteers were sent out to the most remote communities around the globe to ask people, “What six development objectives matter most to you?”
