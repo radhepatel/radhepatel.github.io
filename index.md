@@ -19,9 +19,11 @@ title: Writing
 
 ## About Me
 
-I am a senior at Columbia University studying chemical engineering and political science. I'm interested in intersections between science, technology and communications. I want to enter the media field and contribute to programming on these topics. I'm an active member of the CU Engineers Without Borders (EWB) team, and also serve the EWB national office as the New York state representative. I'm always looking for grassroots organizations in need of our teams for water, sanitation, or civil structure-based projects.
+I'm interested in international relations, development, local government, economics, South Asian political engagement, and exploring how to promote equity and access in NYC. I currently work at the NYC Department of Education as an Urban Fellow, and am slowly trying to wrap my head around everything that is involed in the world of edcuation policy.  I graduated from Columbia University in 2015, studying chemical engineering and political science.
+ 
+ I'm an active member of Engineers Without Borders (EWB), and used to serve the EWB national office as the New York state representative. I'm always looking for grassroots organizations who would like to parter with EWB teams for water, sanitation, or civil structure-based projects.
 
-I like writing about past field projects, but am also interested in efforts here on campus and the conversations surrounding development, social change, or specific issues affecting the NYC community.
+I like writing about past field projects and the things I'm experieincing at Ed-- but am also interested in conversations surrounding development, social change, and specific policies/challenges affecting the NYC community.
 
 To inquire about Engineers Without Borders projects, donations, or community partnerships, email me at new.york.city.rep@ewb-northeast.org
 For anything else: rpp2122@columbia.edu
