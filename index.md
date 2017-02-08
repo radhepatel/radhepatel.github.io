@@ -22,9 +22,15 @@ layout: default
 
 [Learn more about my experiences here.](/resume.pdf)
 
-I am an Urban Fellow interested in international relations, development, local government, economics, South Asian political engagement, and exploring how to promote equity and access in NYC. I currently work in Operations at the NYC Department of Education and am slowly trying to wrap my head around everything that is involed in the world of education policy. I graduated from Columbia University in 2015, studying chemical engineering and political science.
+I am a health policy staffer and former Urban Fellow interested in urban planning,  development, local government, South Asian political engagement, and exploring how to promote equity and access in NYC. I graduated from Columbia University studying chemical engineering and political science. To me, the intersection of these fields is international development and public health, which is why I spent time in Costa Rica and Ghana during my studies on building development projects. 
 
-I like writing about past field projects and the things I'm experieincing at Ed -- but am also interested in conversations surrounding development, social change, and specific policies/challenges affecting communities in NYC.
+I like writing about past field projects and the things I'm experieincing at City Hall -- but am also interested in conversations surrounding development, social change, and specific policies/challenges affecting communities in NYC. 
+
+Check out my work with Rikers here: http://rikersdebateproject.org/
+
+
+
+
 
 
 
