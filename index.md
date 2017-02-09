@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Writing
-
 <ul>
     {% for post in site.posts %}
     <li>
