@@ -1,5 +1,11 @@
 <html>
     <head>
+        {% if page.date %}
+            <title>{{page.title}} - {{site.title}}</title>
+        {% else %}
+            <title>Radhe Patel</title>
+        {% endif %}
+
         <title>{{page.title}} - {{site.title}}</title>
         <link href='/style.css' rel='stylesheet' type='text/css'>
         <meta charset="UTF-8">
@@ -59,7 +65,10 @@
         </header>
         </div>
         <article>
-            <h2>{{page.title}}</h2>
+            {% if page.date %}
+                <h2>{{page.title}}</h2>
+            {% endif %}
+
             {{ content }}
         </article>
         <footer>
